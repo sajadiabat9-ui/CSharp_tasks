@@ -8,7 +8,7 @@ namespace task4
 {
     internal class student
     {
-        // Properties
+        
         public string Name;
         public int Age;
         public int Grade;
