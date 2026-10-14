@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|c:\\users\\user\\desktop\\csharp_tasks\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|solutionrelative:healthpotion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|solutionrelative:gamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|solutionrelative:wizard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E39D2039-6184-4AE8-818A-A01209D6A0FF}|ConsoleApp1.csproj|solutionrelative:warrior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HealthPotion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\HealthPotion.cs",
+              "RelativeDocumentMoniker": "HealthPotion.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\HealthPotion.cs",
+              "RelativeToolTip": "HealthPotion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:44:09.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wizard.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\Wizard.cs",
+              "RelativeDocumentMoniker": "Wizard.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\Wizard.cs",
+              "RelativeToolTip": "Wizard.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAwwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:37:13.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warrior.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\Warrior.cs",
+              "RelativeDocumentMoniker": "Warrior.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\Warrior.cs",
+              "RelativeToolTip": "Warrior.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:36:27.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\GameCharacter.cs",
+              "RelativeDocumentMoniker": "GameCharacter.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\GameCharacter.cs",
+              "RelativeToolTip": "GameCharacter.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAswF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:33:27.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CSharp_tasks\\task6\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-14T12:32:39.314Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
